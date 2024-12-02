@@ -37,7 +37,7 @@ cd flutter_storyline/example
 fluttium test flows/test_platform_name.yaml
 ```
 [flutter_install_link]: https://docs.flutter.dev/get-started/install
-[coverage_badge]: flutter_storyline/coverage_badge.svg
+[coverage_badge]: coverage_badge.svg
 [license_badge]: https://img.shields.io/github/license/topolo-io/flutter-storyline
 [license_link]: https://opensource.org/licenses/MIT
 [logo_black]: https://raw.githubusercontent.com/Topolo-io/flutter-storyline/main/README/topolo-logo-dark.svg#gh-light-mode-only
